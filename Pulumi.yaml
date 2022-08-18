@@ -1,0 +1,3 @@
+name: test-pulumi-k8s-operator
+runtime: nodejs
+description: A minimal Kubernetes TypeScript Pulumi program
